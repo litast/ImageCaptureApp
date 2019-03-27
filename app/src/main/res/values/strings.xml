@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageCaptureApp</string>
+    <string name="bilde">Bilde</string>
+    <string name="uz_emt_bildi">Uzņemt bildi</string>
+</resources>
